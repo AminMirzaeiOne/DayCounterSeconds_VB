@@ -30,6 +30,7 @@
         System.Console.ForegroundColor = ConsoleColor.Blue
         System.Console.WriteLine(" seconds since the start of the day.")
         System.Console.ResetColor()
+        ' Programmer Information and GitHub ID
         System.Console.ForegroundColor = ConsoleColor.Magenta
         System.Console.WriteLine("-----------------------")
         System.Console.ForegroundColor = ConsoleColor.Red
