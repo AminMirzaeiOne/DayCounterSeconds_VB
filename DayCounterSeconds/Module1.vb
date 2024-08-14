@@ -28,8 +28,12 @@
         System.Console.Write(totalSeconds.ToString())
         System.Console.ResetColor()
         System.Console.ForegroundColor = ConsoleColor.Blue
-        System.Console.Write(" seconds since the start of the day.")
+        System.Console.WriteLine(" seconds since the start of the day.")
         System.Console.ResetColor()
+        System.Console.ForegroundColor = ConsoleColor.Magenta
+        System.Console.WriteLine("-----------------------")
+        System.Console.ForegroundColor = ConsoleColor.Red
+        System.Console.WriteLine("Programmer : Amin Mirzaei - Github(UserName) : AminMirzaeiOne")
 
         System.Console.ReadKey() ' Pauses the console
     End Sub
