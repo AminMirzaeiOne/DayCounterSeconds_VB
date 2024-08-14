@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 About Project</h2>
 Among the first projects of Amin Mirzaei after learning the basic concepts of Visual Basic <br />
+----------------------------------------------- <br />
 It receives the hour, minute and second from the user and determines how many seconds have passed since the day and then displays it on the console screen. <br />
 
 <h2> 🏗 Build Information</h2>
