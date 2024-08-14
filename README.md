@@ -22,4 +22,4 @@ It receives the hour, minute and second from the user and determines how many se
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="673" alt="Capture14" src="https://github.com/user-attachments/assets/66d30283-12e1-4fe2-94e4-d63971886299">
